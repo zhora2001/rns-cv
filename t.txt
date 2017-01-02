@@ -1,0 +1,31 @@
+	darksideof202@gmail.com
+
+	NtvyfCnjhjyf
+
+FTP
+
+	86xc7tnRM8rE - пароль
+
+	31.170.164.53 - IP
+
+	u457124792 - пользователь
+
+	ftp.k162.hol.es - хост
+
+	21 - порт
+
+MySQL
+
+	4zAxGhbC7WW9 - пароль
+
+	u457124792_ds - база данных MySQL
+
+	u457124792_ds - пользователь MySQL
+
+	mysql.hostinger.com.ua - MySQL сервер
+
+WP
+
+	Admin - логин
+	
+	wk9b*s!Om8s$kCPCy^ - пароль
